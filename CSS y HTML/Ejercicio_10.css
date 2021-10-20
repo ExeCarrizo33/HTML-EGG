@@ -1,0 +1,71 @@
+    body {
+        font-weight: bold;
+    }
+    
+    h1#titulo {
+        color: teal;
+    }
+    
+    p strong {
+        color: red;
+    }
+    
+    p span.destacado {
+        color: orange;
+    }
+    
+    h2#subtitulo {
+        color: blue;
+    }
+    
+    p a {
+        color: red;
+    }
+    
+    p a em {
+        color: blue;
+    }
+    
+    span.especial {
+        color: darkorchid;
+    }
+    
+    table {
+        border-collapse: collapse;
+    }
+    
+    th {
+        color: red;
+        border: 1px solid black;
+        padding: 5px;
+    }
+    
+    th.especial {
+        color: orange;
+    }
+    
+    caption {
+        display: none;
+    }
+    
+    td {
+        color: green;
+        border: 1px solid black;
+        padding: 5px;
+    }
+    
+    td strong {
+        color: orange;
+    }
+    
+    div#adicional p {
+        color: #82b01e;
+    }
+    
+    div p span#especial {
+        color: orchid;
+    }
+    
+    div p a {
+        color: limegreen;
+    }
