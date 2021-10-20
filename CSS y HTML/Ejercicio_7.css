@@ -1,0 +1,21 @@
+body {
+    background-color: lightslategray;
+}
+
+h1 {
+    color: lime;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: rgb(0, 12, 187);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: aliceblue;
+    text-align: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}

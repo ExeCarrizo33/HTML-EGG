@@ -1,0 +1,17 @@
+*{
+    margin: 10;
+    padding: 10;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
+
+a:hover{
+    color:white;
+    background: red;
+}
+a:visited{
+    color: grey;
+}
