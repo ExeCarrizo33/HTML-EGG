@@ -1,0 +1,33 @@
+table {
+    border-collapse: collapse;
+}
+
+tr {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid #333;
+    padding: 6px;
+}
+
+td {
+    border: 1px solid #333;
+    padding: 6px;
+}
+
+th {
+    border: 1px solid #333;
+    padding: 6px;
+}
+
+th[scope="row"] {
+    text-align: left;
+    background-color: #E6F3FF;
+    background-image: none;
+}
+
+tr th {
+    background-image: url(imagenes/fondo_gris.gif);
+}
+
+table tr.amarillo {
+    background-color: #FFFFCC;
+}
